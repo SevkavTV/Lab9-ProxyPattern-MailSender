@@ -1,0 +1,3 @@
+Hey, %NAME%!
+There is a special sale for customers who are %AGE% years old.
+Don't miss your chance!
